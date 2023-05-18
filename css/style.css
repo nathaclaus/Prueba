@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+}
+
+header {
+    padding: 10px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+    background-color: white;
+}
+
+main {
+    margin-top:65px;
+    padding: 20px;
+}
+
+
+/* img {
+    padding: 5px;
+    height: 400px;
+    width: 500px;
+} */
+
+.img-container {
+    padding: 20px;
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+    border-radius: 25px;
+    border: 2px solid whitesmoke;
+}
+
+
+.main-principal{
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.div-position{
+    position: absolute;
+    text-align: center;
+}
+
+p{
+    padding: 20px 20% 0 20%;
+}
